@@ -35,6 +35,7 @@
     <Compile Include="fontawesome-webfont.ttf" />
     <Compile Include="FontAwesome.ps1" />
     <Compile Include="icon.ico" />
+    <Compile Include="README.md" />
     <Compile Include="Win32.ps1" />
   </ItemGroup>
   <ItemGroup>
